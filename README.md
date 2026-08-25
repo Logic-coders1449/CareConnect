@@ -424,12 +424,14 @@ The current goal is to demonstrate the complete patient-to-task workflow using s
 
 **Logic Coders**
 
-| Name | Role |
-|---|---|
-| Dev Soni | Team Leader |
-| Prajan | Team Member |
-| Abhay Soni | Team Member |
-| Navam | Team Member |
+| Profile | Name | Role | GitHub |
+|:---:|---|---|---|
+| <img src="https://github.com/hellonaitikdas-max.png?size=80" width="64" alt="Naitik GitHub avatar" /> | **Naitik** | **Team Leader** | [@hellonaitikdas-max](https://github.com/hellonaitikdas-max) |
+| <img src="https://github.com/D3VSONI.png?size=80" width="64" alt="Dev GitHub avatar" /> | **Dev** | Team Member | [@D3VSONI](https://github.com/D3VSONI) |
+| <img src="https://github.com/abhi-og.png?size=80" width="64" alt="Abhay GitHub avatar" /> | **Abhay** | Team Member | [@abhi-og](https://github.com/abhi-og) |
+| <img src="https://github.com/prajanexists-lang.png?size=80" width="64" alt="Prajan GitHub avatar" /> | **Prajan** | Team Member | [@prajanexists-lang](https://github.com/prajanexists-lang) |
+| <img src="https://github.com/Ashu-dev0.png?size=80" width="64" alt="Ashutosh GitHub avatar" /> | **Ashutosh** | Team Member | [@Ashu-dev0](https://github.com/Ashu-dev0) |
+| ➕ | **TBD** | Team Member | _Name and GitHub username to be added_ |
 
 ---
 
