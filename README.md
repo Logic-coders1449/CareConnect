@@ -431,7 +431,7 @@ The current goal is to demonstrate the complete patient-to-task workflow using s
 | <img src="https://github.com/abhi-og.png?size=80" width="64" alt="Abhay GitHub avatar" /> | **Abhay** | Team Member | [@abhi-og](https://github.com/abhi-og) |
 | <img src="https://github.com/prajanexists-lang.png?size=80" width="64" alt="Prajan GitHub avatar" /> | **Prajan** | Team Member | [@prajanexists-lang](https://github.com/prajanexists-lang) |
 | <img src="https://github.com/Ashu-dev0.png?size=80" width="64" alt="Ashutosh GitHub avatar" /> | **Ashutosh** | Team Member | [@Ashu-dev0](https://github.com/Ashu-dev0) |
-| ➕ | **TBD** | Team Member | _Name and GitHub username to be added_ |
+| <img src="https://github.com/adrika-des.png?size=80" width="64" alt="Adrika GitHub avatar" /> | **Adrika** | Team Member | [@adrika-des](https://github.com/adrika-des) |
 
 ---
 
