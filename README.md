@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F766E,45:0EA5E9,100:4F46E5&amp;height=250&amp;section=header&amp;text=SwasthSetu&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Digital%20Healthcare%20Workflow%20Assistant&amp;descAlignY=59&amp;descSize=20" alt="SwasthSetu animated healthcare banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F766E,45:0EA5E9,100:4F46E5&amp;height=250&amp;section=header&amp;text=SehatSaathi&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Digital%20Healthcare%20Workflow%20Assistant&amp;descAlignY=59&amp;descSize=20" alt="SehatSaathi animated healthcare banner" />
 </p>
 
 <div align="center">
 
-# SwasthSetu
+# SehatSaathi
 
 ### A connected digital workflow assistant for rural healthcare teams
 
@@ -33,11 +33,11 @@
 
 ## Overview
 
-**SwasthSetu** is a digital healthcare workspace that reduces staff workload by converting prescriptions, medical reports, patient details, follow-ups, and referrals into one simple, connected workflow.
+**SehatSaathi** is a digital healthcare workspace that reduces staff workload by converting prescriptions, medical reports, patient details, follow-ups, and referrals into one simple, connected workflow.
 
 It helps healthcare staff spend less time handling paper, searching for records, making repeated calls, and entering the same information again—and more time caring for patients.
 
-> SwasthSetu is not a referral-only platform. Referral is one action inside a broader patient-care workflow.
+> SehatSaathi is not a referral-only platform. Referral is one action inside a broader patient-care workflow.
 
 <div align="center">
 <table>
@@ -65,7 +65,7 @@ It helps healthcare staff spend less time handling paper, searching for records,
 
 The problem statement highlights long travel distances, shortages of specialists, irregular diagnostics, fragmented records, delayed referrals, limited service awareness, staff constraints, low connectivity, language barriers, health literacy, and affordability.
 
-SwasthSetu addresses the operational side of this challenge by helping frontline workers, doctors, pharmacists, laboratory staff, referral facilities, and supervisors work from one reusable patient record and one shared task flow.
+SehatSaathi addresses the operational side of this challenge by helping frontline workers, doctors, pharmacists, laboratory staff, referral facilities, and supervisors work from one reusable patient record and one shared task flow.
 
 ---
 
@@ -82,7 +82,7 @@ Paper records + handwritten prescriptions + separate reports
 
 A patient's information may be spread across notebooks, paper files, laboratory reports, prescriptions, phone calls, and messaging apps. Staff repeatedly collect the same details, doctors spend time searching for documents, and important follow-up actions can be delayed or missed.
 
-Digital systems can also increase workload if workers must maintain both paper and digital records or complete long forms. SwasthSetu is therefore designed around minimal data entry and immediately useful outputs.
+Digital systems can also increase workload if workers must maintain both paper and digital records or complete long forms. SehatSaathi is therefore designed around minimal data entry and immediately useful outputs.
 
 ---
 
@@ -102,7 +102,7 @@ Track care, follow-up, and referral from one workspace
 
 ### Three Product Pillars
 
-| Pillar | Problem Solved | SwasthSetu Capability |
+| Pillar | Problem Solved | SehatSaathi Capability |
 |---|---|---|
 | **Digitization** | Information is scattered across paper records | Prescription/report OCR and a unified patient profile |
 | **Friction Reduction** | Staff repeat work and manually chase actions | One-time data capture, role-based tasks, reminders, and shared timelines |
@@ -177,7 +177,7 @@ Staff can scan a handwritten or printed prescription. OCR converts it into revie
 Medicine name | Dose | Frequency | Duration | Instructions
 ```
 
-After extraction, SwasthSetu can:
+After extraction, SehatSaathi can:
 
 - Flag a possible match with a recorded allergy
 - Highlight possible duplicate medicines
@@ -318,7 +318,7 @@ With properly consented, anonymized, clinically reviewed, and representative dat
 
 ## Clinical Safety Guardrails
 
-SwasthSetu is designed as workflow and decision-support software, not an autonomous diagnostic or prescribing system.
+SehatSaathi is designed as workflow and decision-support software, not an autonomous diagnostic or prescribing system.
 
 - No automatic diagnosis
 - No autonomous prescription or medicine replacement
@@ -394,9 +394,9 @@ ABDM/FHIR compatibility is an architectural direction and does not imply certifi
 
 ---
 
-## What Makes SwasthSetu Different?
+## What Makes SehatSaathi Different?
 
-Many healthcare products solve one isolated task. SwasthSetu connects the daily work around the patient:
+Many healthcare products solve one isolated task. SehatSaathi connects the daily work around the patient:
 
 ```text
 Patient record
@@ -444,13 +444,13 @@ The current goal is to demonstrate the complete patient-to-task workflow using s
 
 ## Disclaimer
 
-SwasthSetu is an early-stage hackathon prototype. It is not a medical device, does not provide a diagnosis, and must not be used as a substitute for a qualified healthcare professional, an approved clinical protocol, or an emergency service. All prototype medicine, report, availability, and patient data should be treated as demonstration data unless explicitly verified by an authorized professional.
+SehatSaathi is an early-stage hackathon prototype. It is not a medical device, does not provide a diagnosis, and must not be used as a substitute for a qualified healthcare professional, an approved clinical protocol, or an emergency service. All prototype medicine, report, availability, and patient data should be treated as demonstration data unless explicitly verified by an authorized professional.
 
 ---
 
 <div align="center">
 
-### SwasthSetu
+### SehatSaathi
 
 **Less paperwork. Clearer workflows. More time for patient care.**
 
